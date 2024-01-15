@@ -1,5 +1,7 @@
 # Movix React App
 
+[Movix Demo🔗](https://movix-three-brown.vercel.app/)
+
 Movix is a web application for screening movies and TV shows. It is built using React,SCSS, Material-UI, and Redux Toolkit. This app provides a user-friendly interface to explore and discover your favorite movies and TV shows.
 
 ## Features
