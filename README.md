@@ -18,4 +18,5 @@ Movix is a web application for screening movies and TV shows. It is built using 
 - **Material-UI**: React components for faster and easier web development.
 - **Redux Toolkit**: A set of tools to simplify Redux development.
 - **SCSS**
+- **Vite**: Dev tool
 
